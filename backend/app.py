@@ -40,7 +40,7 @@ def create_app():
     app.register_blueprint(company_bp, url_prefix="/api/company")
     app.register_blueprint(student_bp, url_prefix="/api/student")
     app.register_blueprint(drive_bp, url_prefix="/api/drives")
-    app.register_blueprint(interview_bp)  # 🆕 NEW
+    app.register_blueprint(interview_bp) 
     app.register_blueprint(placement_bp)
 
     return app
