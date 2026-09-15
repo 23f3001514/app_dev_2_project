@@ -218,6 +218,7 @@ Building this project helped me gain practical experience with:
 
 ```text
 📌 Student Dashboard
+       screenshots/Screenshot 2026-09-15 131446.png |
 
 📌 Company Dashboard
        screenshots/Screenshot 2026-09-15 131640.png | screenshots/Screenshot 2026-09-15 131706.png
