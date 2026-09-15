@@ -218,10 +218,11 @@ Building this project helped me gain practical experience with:
 
 ```text
 📌 Student Dashboard
+
 📌 Company Dashboard
+
 📌 Admin Dashboard
-screenshots/Screenshot 2026-09-15 131145.png | 
-📌 Application Management
+       screenshots/Screenshot 2026-09-15 131145.png | screenshots/Screenshot 2026-09-15 131212.png
 ```
 
 ---
