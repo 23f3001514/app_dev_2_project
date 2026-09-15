@@ -220,7 +220,7 @@ Building this project helped me gain practical experience with:
 📌 Student Dashboard
 📌 Company Dashboard
 📌 Admin Dashboard
-📌 Placement Drive
+screenshots/Screenshot 2026-09-15 131145.png | 
 📌 Application Management
 ```
 
