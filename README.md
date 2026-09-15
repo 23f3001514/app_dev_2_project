@@ -212,13 +212,9 @@ Building this project helped me gain practical experience with:
 
 ## 📸 Screenshots
 
-
-
-> Add screenshots of the **Student, Company, and Admin dashboards** here to make the repository visually stronger.
-
 ```text
 📌 Student Dashboard
-       screenshots/Screenshot 2026-09-15 131446.png |
+       screenshots/Screenshot 2026-09-15 131446.png | screenshots/Screenshot 2026-09-15 131504.png
 
 📌 Company Dashboard
        screenshots/Screenshot 2026-09-15 131640.png | screenshots/Screenshot 2026-09-15 131706.png
