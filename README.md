@@ -220,7 +220,7 @@ Building this project helped me gain practical experience with:
 📌 Student Dashboard
 
 📌 Company Dashboard
-       screenshots/Screenshot 2026-09-15 131640.png | 
+       screenshots/Screenshot 2026-09-15 131640.png | screenshots/Screenshot 2026-09-15 131706.png
 
 📌 Admin Dashboard
        screenshots/Screenshot 2026-09-15 131145.png | screenshots/Screenshot 2026-09-15 131212.png
